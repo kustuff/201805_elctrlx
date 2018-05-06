@@ -10,8 +10,8 @@
 -- Java version: 1.8.0_121, vendor: Oracle Corporation.
 
 
-Project descriptions
-=======================
+Project description
+======================
 
 Original task description
 ---------------------------------------------------------
@@ -28,7 +28,7 @@ The KIS approach is used.
 The washing machine is assumed as an concrete appliance.
 
 
-Restriction, simplifications
+Restrictions, simplifications
 ---------------------------------------------------------
 Simplest approach for persistence implementation is used.
 No log tools used in the project.
@@ -37,7 +37,7 @@ In-memory “H2” DB is used for simplicity.
 Not full coverage by tests is performed – only several tests for demonstartion.
 Maybe some unused dependencies are kept in the POM, some commented code is not cleared, etc. 
 
-How to build and run project
+How to build and run the project
 ---------------------------------------------------------
 - To build project use “mvn_bld.bat” file.
 - To start project use “mvn_run.bat” file or use “java -jar restapi-0.0.1-SNAPSHOT.war” command from command line.
