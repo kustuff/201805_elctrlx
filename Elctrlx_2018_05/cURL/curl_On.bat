@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d @cmd_ON.txt http://localhost:8080/RestApiApplianceApp/execute > curl_run.log

@@ -1,0 +1,1 @@
+insert into APPLIANCE_STATE (STATE) values('');
