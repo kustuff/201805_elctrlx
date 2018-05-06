@@ -25,7 +25,7 @@ General description
 ---------------------------------------------------------
 Project was created initially with Spring Initializer. 
 The KIS approach is used.
-The washing machine is assumed as an concrete appliance.
+The washing machine is assumed as a concrete appliance.
 
 
 Restrictions, simplifications
